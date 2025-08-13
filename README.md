@@ -126,4 +126,6 @@ Use the official .onion links, *always verifying* their authenticity.
 Onion directories are valuable tools for finding darknet resources. Prioritize safety, verify every link, and always use Tor Browser. Remain vigilant, exercise caution, and remember that participation in these markets may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
 
-Update:  08/04/2025 Fixed broken link, now live and functioning
+
+
+Update:  08/13/2025
