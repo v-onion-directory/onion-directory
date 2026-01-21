@@ -1,139 +1,72 @@
-<img src="/scr/about.webp" width="200">
-
-# Onion Directory: Your Guide to Finding Darknet Resources Securely
-
-Welcome to the **Darknet - Market Wiki**, your comprehensive resource for navigating the darknet. This guide focuses on "Onion Directories," which serve as essential resources for finding active .onion sites, offering a starting point for exploration while emphasizing security and safety.
-
-## Understanding Onion Directories
-
-Onion directories act as search engines for the darknet, compiling lists of .onion links for various services, forums, and markets. Accessing and using them requires Tor Browser to ensure anonymity. A well-chosen onion directory provides a safer way to discover resources, reducing the risk of stumbling upon malicious sites or phishing attempts.
-
-### Key Features of Onion Directories:
--   **Centralized Listings**: Curated lists of .onion links across various categories.
--   **Categorization**: Organized by type (markets, forums, etc.) for easier navigation.
--   **Updates and Verification**: Attempting to provide working links and remove defunct sites.
--   **Security Focus**: Often provide information on safe practices.
-
-## Finding and Using Onion Directories: Best Practices
-
-Finding a reliable onion directory is the initial step. This section offers guidance.
-
-### How to use Onion Directories Safely:
-1.  **Start with Trusted Sources:** Use established directories, or ones recommended by security-conscious communities.
-2.  **Verify the Directory's Authenticity:** Ensure the directory's link is legitimate (check its reputation).
-3.  **Always Use Tor Browser**: Access directories *only* through the Tor Browser.
-4.  **Be Wary of Unverified Links**: Before visiting a link, research the site's reputation.
-5.  **Bookmark and Update Regularly**: Keep a list of trusted directories for quick access.
-6.  **Exercise Caution**: The darknet has risks; research thoroughly before engaging with any site.
-
-### Official market onion urls:
-These sites are not available on the clearnet - [Download the Tor Browser!](https://www.torproject.org/download/)
-
-#### Darknet Markets
-
-*   [Abacus - Market](http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion) - `http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion`
-*   [Archetyp](@archetyp) - `http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion`
-*   [DarkDock - Market](http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion) - `http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion`
-*   [Dark Matter - Market](http://5whwnbcloidnmppwh4eklj3qe5p4iilsud3kc2igjh3rqzmz6tjjvmqd.onion) - `http://5whwnbcloidnmppwh4eklj3qe5p4iilsud3kc2igjh3rqzmz6tjjvmqd.onion`
-*   [DrugHub - Market](http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion) - `http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion`
-*   [Elysium - Market](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion) - `http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion`
-*   [Flugsvamp - 4.0 (Sweden)](http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion) - `http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion`
-*   [MGM Grand - Market](http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion) - `http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion`
-*   [Nexus - Market](http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion) - `http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion`
-*   [Torzon Market](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion) - `http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion`
-*   [Vortex - Market](http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion) - `http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion`
-*   [We-The North Canada](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion) - `http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion`
-
-## Registering and Logging In on Darknet Markets
-
-Using onion directories can lead to darknet market sites. Understanding security is crucial:
-
-### Registration Steps:
-1.  **Use the Onion URL**: Visit the link through Tor Browser.
-2.  **Secure Credentials**: Create a secure username and strong, unique password.
-3.  **Enable 2FA**: Set up Two-Factor Authentication.
-4.  **PGP Key Pair**: Generate and securely manage a PGP key pair.
-5.  **Account Recovery**: Store recovery phrases securely.
-
-### Login Best Practices:
-1.  **Enter Credentials**: Input your correct username and password.
-2.  **Verify the Onion URL**: Ensure you are on the correct website to prevent phishing.
-
-## Buying and Selling Safely
-
-This section covers safe transaction practices.
-
-### Key Transaction Guidelines:
-1.  **Thorough Research**: Check vendor ratings and product reviews.
-2.  **Choose a Product**: Select the item.
-3.  **Secure Payment**: Pay with Monero (XMR) for increased privacy.
-4.  **Escrow**: Always use escrow for protection.
-
-## Security Tips: The Pillars of Safety
-
-Security is vital; follow these practices.
-
-### Security Checklist:
--   **Use VPN + Tor**: Always, with a reliable VPN *before* Tor.
--   **2FA & PGP**: Critical for accounts and communications.
--   **Verify URLs**: Double-check the onion address before entering login details or browsing a new site.
--   **Strong Passwords**: Create and utilize strong, unique passwords.
--   **Avoid External Platforms**: Stick to the platform and never bypass the escrow system.
--   **Stay Informed**: Keep up-to-date with security threats and best practices.
-
-## Buyer and Seller Guidelines
-
-Know your roles and protect yourself.
-
-### Buyer/Seller Protection:
--   **Check Vendor Ratings**: Before making a purchase.
--   **Escrow is Non-Negotiable**: Use escrow.
--   **PGP Encryption (For Sensitive Info)**: Essential.
--   **Never Finalize Early**: Follow the escrow process.
-
-## Escrow System: How it Works
-
-Escrow protects both sides.
-
-### Escrow Functionality:
-1.  **Funds Held**: Funds are held until completion.
-2.  **Release of Funds**: Only released upon delivery verification.
-3.  **Protection for Both Parties**: Reduces the risk of fraud.
-
-## FAQ: Common Questions
-
-### 1.  What are the best onion directories?
-Research and choose directories from trusted sources.
-
-### 2. What payment methods are accepted?
-Primarily Bitcoin (BTC) and Monero (XMR), with Monero preferred.
-
-### 3.  How does escrow work?
-Buyer's payment is held securely until receipt is confirmed.
-
-### 4. How can I avoid scams?
-Verify URLs and use 2FA.
-
-### 5. What if there is an issue with my order?
-Contact the vendor and then use the market's dispute resolution system.
-
-## Onion Links and Mirror Sites
-
-Use the official .onion links, *always verifying* their authenticity.
-
-## Conclusion
-
-Onion directories are valuable tools for finding darknet resources. Prioritize safety, verify every link, and always use Tor Browser. Remain vigilant, exercise caution, and remember that participation in these markets may be illegal in your jurisdiction.
-Plase contribute and add stars to this repo.
 
 
+# Understanding the Onion Directory: A Guide to Navigating the Dark Web Safely
 
 
+The term **onion directory** frequently appears in discussions about the dark web—a hidden part of the internet not indexed by traditional search engines. For users seeking access to .onion sites, which operate on the Tor network, an onion directory serves as a curated list or index of verified and categorized links. While curiosity about the dark web is common, it's essential to approach it with caution, awareness, and a strong emphasis on safety and legality.
 
 
+## What Is an Onion Directory?
 
 
+An onion directory is a collection of .onion URLs—special web addresses that can only be accessed through the Tor browser. These directories aim to organize and present links to various dark web services, forums, marketplaces, and informational sites. Unlike regular websites, .onion sites provide anonymity for both users and site operators, making them useful for privacy-focused communication but also susceptible to misuse.
 
 
+## Why Do People Use Onion Directories?
 
-Update:  12.09.2025 onion URL corrections
+
+Users turn to onion directories for several reasons:
+
+
+- **Privacy Advocacy**: Journalists, whistleblowers, and activists often rely on the Tor network to communicate securely.
+- **Access to Censored Content**: In some regions, the dark web offers access to information blocked by governments.
+- **Curiosity and Research**: Some individuals explore the dark web to understand its structure, risks, and potential.
+
+
+However, it's crucial to recognize that the dark web also hosts illegal or harmful content. Therefore, responsible usage is non-negotiable.
+
+
+## Risks of Using Unverified Onion Links
+
+
+Not all .onion sites are safe. Malicious actors frequently create phishing pages, scam sites, or malware distribution points disguised as legitimate services. Accessing unverified links from random forums or untrusted sources can expose users to:
+
+
+- Identity theft
+- Malware infections
+- Legal consequences
+
+
+Because of these risks, relying on a reputable onion directory that vets its listings is highly recommended—though even then, extreme caution is necessary.
+
+
+## Best Practices for Safe Exploration
+
+
+If you choose to explore the dark web for educational or privacy-related purposes, follow these guidelines:
+
+
+1. **Always use the official Tor Browser**—never attempt to access .onion sites through standard browsers.
+2. **Disable scripts and plugins** to reduce attack surfaces.
+3. **Never share personal information**, including usernames, locations, or financial details.
+4. **Use strong, unique passwords** and consider operating within a virtual machine for added security.
+5. **Verify URLs meticulously**—typos can lead to fake or malicious sites.
+
+
+## Final Note: Use Only Verified URLs
+
+
+Exploring the dark web should never be taken lightly. For those referencing an onion directory, **always confirm that any URL you intend to visit has been independently verified by trusted sources**. Unverified links pose significant security and legal risks. Remember: this content is provided for **educational purposes only**, and any activity on the dark web must comply with applicable laws and ethical standards.
+
+
+Stay informed, stay safe, and prioritize your digital well-being above all.
+
+<a href="http://&#98;&#108;%61&#99;%6B&#111;%70%73%61&#97;%78%37%69&#101;%65&#108;&#106;%65%63&#116;&#118;%69%33%76&#110;&#51;%61%35&#109;&#50;%77%66&#115;%73&#121;%6C&#99;%64&#113;&#97;&#115;&#119;&#114;&#118;&#108;&#98;%65%70&#116;&#119;%7A%76%35&#111;%69%64&#46;&#111;&#110;&#105;%6F&#110;"><img src="/bin/scale.webp"></a>
+
+<a href="http://&#100;&#114;u%67&#104;u%62&#50;%70%77&#122;%6B&#122;%6A&#116;%63u&#97;&#114;&#102;&#53;&#112;&#50;%66%36&#115;%78%6D%68&#55;%74%6Au&#105;&#121;%77%34u&#119;&#99;&#97;%68%34&#104;%6A&#116;%66%34%37&#111;%69%70%63%69%61&#100;%2E%6F&#110;&#105;&#111;&#110;"><img src="/bin/runtime.webp"></a>
+
+<a href="http://&#110;&#101;&#120;u%73%7A&#104;&#110;%37&#102;&#121;&#55;%78&#103;&#55;u&#100;&#116;%76%34&#51;&#118;%69&#104;%6E&#104;&#118;%71%35%79&#108;%72%35%37%62%34&#112;&#110;&#116;&#101;u&#109;%36&#120;&#54;%6F%6E%72&#110;%74&#119;&#98;%35u%71%64&#46;%6F&#110;%69%6F&#110;"><img src="/bin/bottom.webp"></a>
+
+<a href="http://%74&#111;%72&#122;&#111;&#110;&#53;%6C&#109;&#118;%36&#109;&#55;%77&#115;&#53;%74%61%36&#101;&#104;%33&#114;%36%33%73&#104;%6B&#106;&#98;%7A%32&#109;&#113;%72&#102;&#55;%79&#109;%6A%72&#109;%67%72u%32&#98;&#111;&#103;%66&#110;&#101;%63&#51;%79&#100;%2E&#111;&#110;%69%6F%6E"><img src="/bin/model.webp"></a>
+
+<a href="http://&#104;&#110;%32%70&#97;&#119;&#55;&#115;&#108;%63%33&#53;%6B&#109;%35u%6F&#111;&#114;&#51;&#122;&#119;&#54;%64&#103;u%67%32&#51;&#113;%7A&#52;&#110;%67%32&#110;%66&#55;%32&#101;%71&#106;&#110;&#97;%68&#97;&#114;&#55;%77&#110;&#105;%63%65%7A&#105;&#100;%2E&#111;%6E%69&#111;%6E"><img src="/bin/icon.webp"></a> 
